@@ -742,7 +742,7 @@ a {
 }
 .cid-tz0XXAdR0h .dropdown-menu,
 .cid-tz0XXAdR0h .navbar.opened {
-  background: #fafafa !important;
+  background: #bbbbbb !important;
 }
 .cid-tz0XXAdR0h .nav-item:focus,
 .cid-tz0XXAdR0h .nav-link:focus {
@@ -877,7 +877,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tz0XXAdR0h .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fafafa;
+  background: #bbbbbb;
 }
 .cid-tz0XXAdR0h .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -990,8 +990,7 @@ a {
 }
 .cid-tz0XXAdR0h .navbar-short {
   min-height: 70px;
-  background: #fafafa;
-  background: rgba(250, 250, 250, 0);
+  background: #bbbbbb;
 }
 @media (max-width: 575px) {
   .cid-tz0XXAdR0h .navbar-short {
@@ -1036,7 +1035,7 @@ a {
 }
 .cid-tz0XXAdR0h .navbar-nav .nav-item .dropdown-menu {
   position: static !important;
-  background-color: #181817 !important;
+  background-color: #4479d9 !important;
 }
 .cid-tz0XXAdR0h .mbr-section-btn .btn {
   padding: 15px 35px;
@@ -1175,7 +1174,7 @@ a {
   border-radius: 1.5rem;
   width: 100%;
   text-align: left;
-  background-color: #181817;
+  background-color: #4479d9;
   box-shadow: none;
   overflow: auto;
 }
@@ -1426,7 +1425,7 @@ a {
 }
 .cid-tz1NgQA0PW .dropdown-menu,
 .cid-tz1NgQA0PW .navbar.opened {
-  background: #fafafa !important;
+  background: #bbbbbb !important;
 }
 .cid-tz1NgQA0PW .nav-item:focus,
 .cid-tz1NgQA0PW .nav-link:focus {
@@ -1561,7 +1560,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-tz1NgQA0PW .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fafafa;
+  background: #bbbbbb;
 }
 .cid-tz1NgQA0PW .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1674,8 +1673,7 @@ a {
 }
 .cid-tz1NgQA0PW .navbar-short {
   min-height: 70px;
-  background: #fafafa;
-  background: rgba(250, 250, 250, 0);
+  background: #bbbbbb;
 }
 @media (max-width: 575px) {
   .cid-tz1NgQA0PW .navbar-short {
@@ -1720,7 +1718,7 @@ a {
 }
 .cid-tz1NgQA0PW .navbar-nav .nav-item .dropdown-menu {
   position: static !important;
-  background-color: #181817 !important;
+  background-color: #4479d9 !important;
 }
 .cid-tz1NgQA0PW .mbr-section-btn .btn {
   padding: 15px 35px;
@@ -1859,7 +1857,7 @@ a {
   border-radius: 1.5rem;
   width: 100%;
   text-align: left;
-  background-color: #181817;
+  background-color: #4479d9;
   box-shadow: none;
   overflow: auto;
 }
