@@ -1251,15 +1251,28 @@ a:hover {
     left: 0;
   }
 }
+#custom-html-2 {
+  /* Type valid CSS here */
+}
+#custom-html-2 div {
+  padding: 12px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2 p {
+  font-size: 34px;
+  color: #777;
+}
 #custom-html-0 {
   /* Type valid CSS here */
 }
 #custom-html-0 div {
-  padding: 5px 0;
-  color: #000000;
+  padding: 5px 5px;
+  color: #777;
+  text-align: center;
 }
 #custom-html-0 p {
-  color: #000000;
+  color: #777;
 }
 .cid-tfw5MOYr7T {
   padding-top: 30px;
@@ -1325,7 +1338,7 @@ a:hover {
 }
 .cid-tzxLtmhyvF .dropdown-menu,
 .cid-tzxLtmhyvF .navbar.opened {
-  background: #26292c !important;
+  background: #f8f6f2 !important;
 }
 .cid-tzxLtmhyvF .nav-item:focus,
 .cid-tzxLtmhyvF .nav-link:focus {
@@ -1353,7 +1366,7 @@ a:hover {
   padding: 0 !important;
   box-shadow: none !important;
   position: relative ;
-  background: #26292c;
+  background: #f8f6f2;
 }
 .cid-tzxLtmhyvF .navbar.opened {
   transition: all 0.3s;
@@ -1460,7 +1473,7 @@ a:hover {
   padding: 0.667em 1.667em;
 }
 .cid-tzxLtmhyvF .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #26292c;
+  background: #f8f6f2;
 }
 .cid-tzxLtmhyvF .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1500,7 +1513,7 @@ a:hover {
   right: 2px;
   width: 20px;
   height: 2px;
-  background-color: #fafafa;
+  background-color: #26292c;
 }
 .cid-tzxLtmhyvF button.navbar-toggler .hamburger span:nth-child(1) {
   top: 6px;
@@ -1572,7 +1585,7 @@ a:hover {
 }
 .cid-tzxLtmhyvF .navbar-short {
   min-height: 70px;
-  background: #26292c;
+  background: #f8f6f2;
 }
 @media (max-width: 575px) {
   .cid-tzxLtmhyvF .navbar-short {
@@ -1617,7 +1630,7 @@ a:hover {
 }
 .cid-tzxLtmhyvF .navbar-nav .nav-item .dropdown-menu {
   position: static !important;
-  background-color: #26292c !important;
+  background-color: #f0e4e5 !important;
 }
 .cid-tzxLtmhyvF .mbr-section-btn .btn {
   padding: 15px 35px;
@@ -1650,7 +1663,7 @@ a:hover {
   right: 0;
   width: 37px;
   height: 2px;
-  background-color: #fafafa;
+  background-color: #26292c;
 }
 .cid-tzxLtmhyvF button.btn_offcanvas .hamburger-offcanvas span:nth-child(1) {
   top: 9px;
@@ -1701,7 +1714,7 @@ a:hover {
   right: 0;
   width: 37px;
   height: 2px;
-  background-color: #fafafa;
+  background-color: #26292c;
 }
 .cid-tzxLtmhyvF .btn-close .hamburger-offcanvas span:nth-child(1) {
   display: none;
@@ -1756,7 +1769,7 @@ a:hover {
   border-radius: 1.5rem;
   width: 100%;
   text-align: left;
-  background-color: #26292c;
+  background-color: #f0e4e5;
   box-shadow: none;
   overflow: auto;
 }
@@ -1847,6 +1860,7 @@ a:hover {
   grid-template-columns: auto auto;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  color: #26292c;
 }
 @media (max-width: 991px) {
   .cid-tzxLtmhyvF .second-list {
