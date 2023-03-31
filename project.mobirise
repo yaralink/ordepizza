@@ -1968,7 +1968,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n[JS_CODE_0]\n<div class=\"elfsight-app-36176461-073a-4c69-beac-cbe8ec2a0c8d\"></div>\n  \n    \n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<a class=\"weatherwidget-io\" href=\"https://forecast7.com/en/27d7285d32/kathmandu/\" data-label_1=\"KATHMANDU\" data-label_2=\"REAL TIME WEATHER\" data-font=\"Roboto\" data-icons=\"Climacons Animated\" data-theme=\"weather_one\">KATHMANDU REAL TIME WEATHER</a>\n[JS_CODE_0]\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 20px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\n",
           "alias": "code-editor",
           "_tags": [
@@ -1978,7 +1978,7 @@
           "_sourceTheme": "lodgem5",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>"
+            "<script>\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');\n</script>"
           ],
           "_anchor": "custom-html-i"
         },
